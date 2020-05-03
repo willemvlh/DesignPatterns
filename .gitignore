@@ -4,3 +4,5 @@
 
 /obj
 /.vs/DesignPatterns/v16
+/bin/Debug/netcoreapp3.0
+/.vs/DesignPatterns/DesignTimeBuild

@@ -12,8 +12,8 @@ namespace DesignPatterns.Models
     }
 
     public class Laptop : Computer
-    {
-
+    {   
+        
     }
 
     public class DesktopComputer : Computer

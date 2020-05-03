@@ -1,4 +1,8 @@
-﻿using System;
+﻿using DesignPatterns.AbstractFactory;
+using DesignPatterns.Models;
+using DesignPatterns.Observer;
+using DesignPatterns.TemplateMethod;
+using System;
 
 namespace DesignPatterns
 {
@@ -6,7 +10,8 @@ namespace DesignPatterns
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            TemplateMethodExample.Run();
         }
+
     }
 }
